@@ -1,0 +1,36 @@
+{
+    "type":"VARIABLE",
+    "value":null,
+    "children":[
+        {
+            "type":"IDENTIFIER",
+            "value": "variable_name",
+            "children": []
+        },
+        {
+            "type":"REF_VAL_SPEC",
+            "value": "ref",
+            "children": []
+        },
+        {
+            "type":"CONCURRENT_SPEC",
+            "value": null,
+            "children": []
+        },
+        {
+            "type":"FOREIGN_SPEC",
+            "value": null,
+            "children": []
+        },
+        {
+            "type":"TYPE",
+            "value": "String",
+            "children": []
+        },
+        {
+            "type":"EXPRESSION",
+            "value": null,
+            "children": []
+        }
+    ]
+}

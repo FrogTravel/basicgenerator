@@ -1,0 +1,40 @@
+{
+    "type":"ROUTINE",
+    "value":null,
+    "children":[
+    {
+        "type":"IDENTIFIER",
+        "value":"a",
+        "children":[]
+    },
+    {
+        "type":"UNIT_REF",
+        "value":"Integer",
+        "children":[]
+    },
+    {
+        "type":"ENTITY_LIST",
+        "value":null,
+        "children":[
+        {
+            "type":"RETURN",
+            "value":null,
+            "children":[
+            {
+                "type":"LITERAL",
+                "value":"1",
+                "children":[
+                {
+                    "type":"UNIT_REF",
+                    "value":"Integer",
+                    "children":[]
+                }
+                ]
+            }
+            ]
+        }
+     ]
+     }
+     ]
+
+}
